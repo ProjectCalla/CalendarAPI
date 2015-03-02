@@ -1,0 +1,26 @@
+google-api-services-calendar-v3-rev118-1.19.1.jar
+google-api-services-calendar-v3-rev118-1.19.1-javadoc.jar
+google-api-services-calendar-v3-rev118-1.19.1-sources.jar
+
+commons-logging-1.1.1.jar
+google-api-client-1.19.1.jar
+google-api-client-java6-1.19.1.jar
+google-http-client-1.19.0.jar
+google-oauth-client-1.19.1.jar
+google-oauth-client-java6-1.19.1.jar
+httpclient-4.0.1.jar
+httpcore-4.0.1.jar
+jsr305.jar
+jackson-core-2.1.3.jar
+google-api-client-jackson2-1.19.1.jar
+google-http-client-jackson2-1.19.0.jar
+
+mysql-connector-java-5.1.34.jar
+
+
+
+calendar jars komen uit calendar api v3
+
+mysql connector is de nieuwste connector, google.
+
+de overige jars komen uit de meest recente google api client
